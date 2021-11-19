@@ -1,0 +1,15 @@
+\\172.16.16.7\mm_automation\Auto TE Team\06_Share folder\49_PhuHung\C#\Quản lý quán cafe\Upgrade Version\CafeManage\CafeManage\bin\Debug\CafeManage.exe.config
+\\172.16.16.7\mm_automation\Auto TE Team\06_Share folder\49_PhuHung\C#\Quản lý quán cafe\Upgrade Version\CafeManage\CafeManage\bin\Debug\CafeManage.exe
+\\172.16.16.7\mm_automation\Auto TE Team\06_Share folder\49_PhuHung\C#\Quản lý quán cafe\Upgrade Version\CafeManage\CafeManage\bin\Debug\CafeManage.pdb
+\\172.16.16.7\mm_automation\Auto TE Team\06_Share folder\49_PhuHung\C#\Quản lý quán cafe\Upgrade Version\CafeManage\CafeManage\obj\Debug\CafeManage.csprojAssemblyReference.cache
+\\172.16.16.7\mm_automation\Auto TE Team\06_Share folder\49_PhuHung\C#\Quản lý quán cafe\Upgrade Version\CafeManage\CafeManage\obj\Debug\CafeManage.FLogIn.resources
+\\172.16.16.7\mm_automation\Auto TE Team\06_Share folder\49_PhuHung\C#\Quản lý quán cafe\Upgrade Version\CafeManage\CafeManage\obj\Debug\CafeManage.Properties.Resources.resources
+\\172.16.16.7\mm_automation\Auto TE Team\06_Share folder\49_PhuHung\C#\Quản lý quán cafe\Upgrade Version\CafeManage\CafeManage\obj\Debug\CafeManage.csproj.GenerateResource.cache
+\\172.16.16.7\mm_automation\Auto TE Team\06_Share folder\49_PhuHung\C#\Quản lý quán cafe\Upgrade Version\CafeManage\CafeManage\obj\Debug\CafeManage.csproj.CoreCompileInputs.cache
+\\172.16.16.7\mm_automation\Auto TE Team\06_Share folder\49_PhuHung\C#\Quản lý quán cafe\Upgrade Version\CafeManage\CafeManage\obj\Debug\CafeManage.exe
+\\172.16.16.7\mm_automation\Auto TE Team\06_Share folder\49_PhuHung\C#\Quản lý quán cafe\Upgrade Version\CafeManage\CafeManage\obj\Debug\CafeManage.pdb
+\\172.16.16.7\mm_automation\Auto TE Team\06_Share folder\49_PhuHung\C#\Quản lý quán cafe\Upgrade Version\CafeManage\CafeManage\obj\Debug\CafeManage.FMain.resources
+\\172.16.16.7\mm_automation\Auto TE Team\06_Share folder\49_PhuHung\C#\Quản lý quán cafe\Upgrade Version\CafeManage\CafeManage\obj\Debug\CafeManage.FUserProfile.resources
+\\172.16.16.7\mm_automation\Auto TE Team\06_Share folder\49_PhuHung\C#\Quản lý quán cafe\Upgrade Version\CafeManage\CafeManage\obj\Debug\CafeManage.FCustomerProfile.resources
+\\172.16.16.7\mm_automation\Auto TE Team\06_Share folder\49_PhuHung\C#\Quản lý quán cafe\Upgrade Version\CafeManage\CafeManage\obj\Debug\CafeManage.FAdmin.resources
+\\172.16.16.7\mm_automation\Auto TE Team\06_Share folder\49_PhuHung\C#\Quản lý quán cafe\Upgrade Version\CafeManage\CafeManage\obj\Debug\CafeManage.FIngredientImport.resources
